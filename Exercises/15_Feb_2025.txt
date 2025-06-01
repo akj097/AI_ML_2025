@@ -68,7 +68,7 @@
 
         1. Set value = number, i = 1 
         2. Start loop from i =1 
-            a. if 10**i <=> value    
+            a. if 10**i <= value    
                 return i
             b. else if 10**i < value
                 i = i + 1 
